@@ -109,7 +109,7 @@ export default class NavBar extends Component {
               </Link>
                         </li>
                     </Nav>
-                    <NavbarText><a href={MyPDF} download='ChloeMacdonaldResume2021.pdf'><h5><FaDownload/>&nbsp;&nbsp;Download Resume</h5></a></NavbarText>
+                    <NavbarText><h5><FaDownload/>&nbsp;&nbsp;<a href={MyPDF} download='ChloeMacdonaldResume2021.pdf'>Download Resume</a></h5></NavbarText>
                 </Collapse>
             </Navbar>
         </div>);

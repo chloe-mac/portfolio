@@ -125,3 +125,7 @@ ol li:before {
   text-align: center;
   display: inline-block;
 }
+
+html{
+  font-size:10px;
+}

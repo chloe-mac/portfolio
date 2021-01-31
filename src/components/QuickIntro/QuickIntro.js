@@ -42,8 +42,8 @@ export default class QuickIntro extends Component {
                         </Col>
                         <Col md='8'>
                             <h4>Hello, I'm Chlo&eacute; Macdonald</h4>
-                            <p><a href='mailto:chlo.macdonald@mail.utoronto.ca'><FaEnvelope />&nbsp;&nbsp;chlo.macdonald@mail.utoronto.ca</a></p>
-                            <p className="lead" style={{ fontSize: 18 }}><b>I'm entering my <b>4th year of Industrial Engineering at University of Toronto</b> with a double minor in&nbsp;
+                            <p><FaEnvelope />&nbsp;&nbsp;<a href='mailto:chlo.macdonald@mail.utoronto.ca'>chlo.macdonald@mail.utoronto.ca</a></p>
+                            <p className="lead" style={{ fontSize: 18 }}>I'm entering my <span style={{fontWeight:600}}>4th year of Industrial Engineering at University of Toronto</span> with a double minor in&nbsp;
                             <Link
                                 href="#fallingproject"
                                 to="fallingproject"
@@ -65,11 +65,11 @@ export default class QuickIntro extends Component {
                                  <u>Engineering Business</u>
                                 </Link> 
                         
-                           .</b></p>
-                            <hr className="my-2" />
-                            <p style={{ fontSize: 14 }}><b>Please explore <span id="DisabledAutoHideExample"><u>this website</u></span> to learn more about me, my previous 
+                           .</p>
+                            <hr style={{color:"gray"}}/>
+                            <p style={{ fontSize: 14 }}>Please explore <span id="DisabledAutoHideExample"><u>this website</u></span> to learn more about me, my previous 
                             experience
-                                at Scotiabank and Cisco and my work on various projects.</b></p>
+                                at Scotiabank and Cisco and my work on various projects.</p>
                             <Tooltip placement="bottom" isOpen={this.state.tooltipOpen} autohide={false} target="DisabledAutoHideExample" toggle={this.toggle}>
                                 <span style={{fontSize:12}}>I built this website to practice using React!</span>
                             </Tooltip>

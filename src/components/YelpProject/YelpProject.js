@@ -27,9 +27,9 @@ export default class YelpProject extends Component {
               </CardHeader>
         <CardFooter style={{backgroundColor:'#FFFBFD'}}><Container>
             <Row>
-                <Col md={6}><Row><img className='yelpwebsitepic' src={websitepic}/></Row><br/>
+                <Col md={6}><Row><img className='yelpwebsitepic' src={websitepic} style={{maxWidth:500}}/></Row><br/>
                 <Row>
-                <img className='yelpzoominpic' src={zoominpic}/></Row></Col>
+                <img className='yelpzoominpic' src={zoominpic} style={{maxWidth:500}}/></Row></Col>
                 <Col md={6}>
                     <Card style={{ borderRadius: 8, border:2 }}>
                         <CardHeader>
@@ -39,7 +39,7 @@ export default class YelpProject extends Component {
                         <CardBody style={{ borderRadius: 8, border:2 }}>
                         <Container>
                         <Row>
-                        <img className='yelpdropdownpic' src={dropdownpic}/>
+                        <img className='yelpdropdownpic' src={dropdownpic} style={{maxWidth:350}}/>
                         </Row>
                     </Container>
                     </CardBody>
