@@ -83,7 +83,7 @@ export default class QuickIntro extends Component {
                 <CardText>
                     <Container>
                         <Table hover>
-                            <tbody>
+                            <tbody style={{fontSize:10}}>
                                 <tr style={{ borderTop: 0 }}>
                                     <td scope="row" colSpan={1}><h5><FaBookOpen style={{color:color}}/>&nbsp;&nbsp;Languages</h5></td>
                                     <td colSpan={3}>English, French</td>

@@ -12,7 +12,7 @@ const color = '#D7ABB6'
 export default class Experience extends Component {
 
     render() {
-        return (<div id='experience'>
+        return (<div id='experience' style={{fontSize:10}}>
               <Card body style={{margin:30}}>
           <CardTitle tag="h4" style={{textAlign:"center"}}>Experience</CardTitle>
           <CardText>
