@@ -12,7 +12,7 @@ export default class ExperienceCard extends Component {
                 <CardHeader>
                     <h4>{this.props.title}</h4>
                     <p style={{ marginTop: 2 }}>{this.props.timeline}</p>
-                    <h5><img className='imgCompany' src={this.props.img} alt='' style={{maxWidth:40,maxHeight:40}}></img>&nbsp;&nbsp;{this.props.name}</h5>
+                    <h5><img className='imgCompany' src={this.props.img} alt='' style={{maxWidth:50,maxHeight:50}}></img>&nbsp;&nbsp;{this.props.name}</h5>
                     <h6 style={{marginTop:8}}>{this.props.roleDescription}</h6>
                 </CardHeader>
                 </Card>

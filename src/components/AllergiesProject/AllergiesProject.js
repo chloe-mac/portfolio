@@ -37,7 +37,7 @@ export default class AllergiesProject extends Component {
                         </CardHeader>
                         <CardBody style={{ borderRadius: 8, border:2 }}>
                         <Container>
-                      <ul>
+                      <ul style={{fontSize:10}}>
                           <li><span style={{fontWeight:600}}>Major Functionality:</span>
                               <ol>
                                   <li>

@@ -82,7 +82,7 @@ export default class Experience extends Component {
                  </Col>
         
                  <Col md='4'>
-                    <ExperienceCard timeline='January 2015 - June 2017' title='French Tutor' img={franceflag} roleDescription="Responsible for activities to improve a French Immersion's student reading and writing abilities" />
+                    <ExperienceCard timeline='January 2015 - June 2017' title='French Tutor' img={franceflag} roleDescription="Responsible for creating activities to help improve a French Immersion's student reading and writing abilities, aided in completion of homework and other projects" />
                  </Col>
                
              </Row>

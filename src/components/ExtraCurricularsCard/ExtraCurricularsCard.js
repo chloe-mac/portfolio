@@ -25,7 +25,7 @@ export default class ExtraCurricularsCard extends Component {
                     <CardBody  style={{paddingTop:0}}>
                     <Container>
                     <hr className="my-2" />
-                        <CardText>{this.props.description}</CardText>
+                        <CardText><span style={{fontSize:10}}>{this.props.description}</span></CardText>
                     </Container>
                     </CardBody>
                 </Card>
