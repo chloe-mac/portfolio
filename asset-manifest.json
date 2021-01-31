@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ebeccfa6.chunk.css",
+    "main.js": "/portfolio/static/js/main.1db37ba6.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.1db37ba6.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.74fbec5e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.74fbec5e.js.map",
+    "static/css/2.27b67991.chunk.css": "/portfolio/static/css/2.27b67991.chunk.css",
+    "static/js/2.5b4d91d0.chunk.js": "/portfolio/static/js/2.5b4d91d0.chunk.js",
+    "static/js/2.5b4d91d0.chunk.js.map": "/portfolio/static/js/2.5b4d91d0.chunk.js.map",
+    "static/js/3.2939576b.chunk.js": "/portfolio/static/js/3.2939576b.chunk.js",
+    "static/js/3.2939576b.chunk.js.map": "/portfolio/static/js/3.2939576b.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/2.27b67991.chunk.css.map": "/portfolio/static/css/2.27b67991.chunk.css.map",
+    "static/css/main.ebeccfa6.chunk.css.map": "/portfolio/static/css/main.ebeccfa6.chunk.css.map",
+    "static/js/2.5b4d91d0.chunk.js.LICENSE.txt": "/portfolio/static/js/2.5b4d91d0.chunk.js.LICENSE.txt",
+    "static/media/ChloeMacdonald.af284b24.jpg": "/portfolio/static/media/ChloeMacdonald.af284b24.jpg",
+    "static/media/ChloeMacdonaldResume2021.b2a0f493.pdf": "/portfolio/static/media/ChloeMacdonaldResume2021.b2a0f493.pdf",
+    "static/media/MarketingReport.f7d629cc.png": "/portfolio/static/media/MarketingReport.f7d629cc.png",
+    "static/media/allergypic1.61a1114b.png": "/portfolio/static/media/allergypic1.61a1114b.png",
+    "static/media/allergypic2.90e85df7.png": "/portfolio/static/media/allergypic2.90e85df7.png",
+    "static/media/ciscologo.b021a4a9.png": "/portfolio/static/media/ciscologo.b021a4a9.png",
+    "static/media/dropdownpic.69a1a52e.png": "/portfolio/static/media/dropdownpic.69a1a52e.png",
+    "static/media/javalogo.0b79d0ba.png": "/portfolio/static/media/javalogo.0b79d0ba.png",
+    "static/media/scotialogo.d71f7d76.jpg": "/portfolio/static/media/scotialogo.d71f7d76.jpg",
+    "static/media/uoftenglogo.9cfea2e0.jpg": "/portfolio/static/media/uoftenglogo.9cfea2e0.jpg",
+    "static/media/websitepic.5885c74c.png": "/portfolio/static/media/websitepic.5885c74c.png",
+    "static/media/zoominpic.449620fc.png": "/portfolio/static/media/zoominpic.449620fc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74fbec5e.js",
+    "static/css/2.27b67991.chunk.css",
+    "static/js/2.5b4d91d0.chunk.js",
+    "static/css/main.ebeccfa6.chunk.css",
+    "static/js/main.1db37ba6.chunk.js"
+  ]
+}
