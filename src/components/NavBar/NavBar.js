@@ -62,7 +62,7 @@ export default class NavBar extends Component {
                                 offset={-70}
                                 duration={500}
                             >
-                                <h5 style={{color:"dimgrey"}}>Introduction test</h5>
+                                <h5 style={{color:"dimgrey"}}>Introduction</h5>
               </Link>
                         </li>
                         <li className="nav-item">
