@@ -23,23 +23,7 @@ export default class Experience extends Component {
             
              </Col>
              <Col md='8'>
-              
-             <ul style={{padding:5}}>
-                 <li style={{padding:2}}>Built a full-stack Real Estate Project Tracker web application to provide a collaborative platform for team members to update their deliverable progress and status updates
-                 <ul style={{paddingLeft:10,paddingTop:2}}>
-                         <li>Features include: authentication, email updates and reminders, budget tracking with currency conversion API</li>
-                     </ul>
-                 </li>
-                 <li style={{padding:2}}>Built a full-stack configurable Team Schedule web application to track work locations, shift times and daily tasks for team members
-                     <ul style={{paddingLeft:10,paddingTop:2}}>
-                         <li>Back-end algorithms implemented to smartly predict schedules based on previous weeks Team Schedule data</li>
-                     </ul>
-                 </li>
-                 <li style={{padding:2}}>Developed an automated attendance tracking process from daily security logs to determine users working in person for Covid-19 contact tracing purposes</li>
-                 <li style={{padding:2}}>Wrote front-end and back-end scripts to augment existing web applications</li>
-                 <li style={{padding:2}}>Responsible for database design and management for scalability</li>
-                 <li style={{padding:2}}>Worked directly with end-users to maintain web applications</li>
-                 </ul>
+            
              </Col>
              </Row>
              <br/>
